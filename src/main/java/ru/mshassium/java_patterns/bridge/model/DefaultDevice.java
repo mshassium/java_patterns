@@ -1,4 +1,4 @@
-package ru.mshassium.java_patterns.bridge;
+package ru.mshassium.java_patterns.bridge.model;
 
 public abstract class DefaultDevice implements Device {
 
