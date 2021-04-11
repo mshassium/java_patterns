@@ -1,6 +1,6 @@
-#Adapter 
+# Adapter 
 
-##[Статья](https://refactoring.guru/ru/design-patterns/adapter)
+## [Статья](https://refactoring.guru/ru/design-patterns/adapter)
 
 _Изображения взяты с сайта ([refactoring.guru](https://refactoring.guru/ru))_
 

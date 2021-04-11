@@ -1,6 +1,6 @@
-#Bridge (Мост)
+# Bridge (Мост)
 
-##[Статья](https://refactoring.guru/ru/design-patterns/bridge)
+## [Статья](https://refactoring.guru/ru/design-patterns/bridge)
 
 _Изображения взяты с сайта ([refactoring.guru](https://refactoring.guru/ru))_
 

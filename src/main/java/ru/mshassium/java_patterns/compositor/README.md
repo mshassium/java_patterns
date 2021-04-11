@@ -1,6 +1,6 @@
-#Compositor (Компоновщик)
+# Compositor (Компоновщик)
 
-##[Статья](https://refactoring.guru/ru/design-patterns/composite)
+## [Статья](https://refactoring.guru/ru/design-patterns/composite)
 
 _Изображения взяты с сайта ([refactoring.guru](https://refactoring.guru/ru))_
 
